@@ -1,0 +1,12 @@
+Package: TransSDR
+Type: Package
+Title: transferable sufficient dimension reduction 
+Version: 0.1.0
+Author: xiawenjun
+Maintainer: The author's master's thesis.
+Description: using transfer learning is used for sufficient dimension reduction, compare with the traditional method.  
+Imports: glmtrans, glmnet, splines, parallel
+License: GPL-3
+Encoding: UTF-8
+LazyData: False
+RoxygenNote: 7.2.3
