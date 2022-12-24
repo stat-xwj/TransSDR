@@ -132,7 +132,7 @@ compute_diff = function(W_esti, d, true_B = B, type='matrix-dot',D.training=D.tr
 
 
 
-
+ 
 
 
 
